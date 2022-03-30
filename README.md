@@ -64,7 +64,7 @@ Feel free to comment on any known shortcomings of your design and make suggestio
 these could be addressed given more time or if the library and version restrictions were removed.
 
 
-##My description of the implementation of the test and my thoughts: 
+## My description of the implementation of the test and my thoughts: 
 
 At the beginning I decided to implement this task based on Trie data structure.
 This is the fastest possible structure for searching in set of words by predicates. 
